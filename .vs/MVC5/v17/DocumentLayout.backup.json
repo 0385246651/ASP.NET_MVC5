@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP_DOTNET_MVC5\\MVC5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1AC0F3-C7A9-4BB7-8711-B2C8F82D295A}|MVC5\\MVC5.csproj|d:\\asp_dotnet_mvc5\\mvc5\\mvc5\\controllers\\boardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE1AC0F3-C7A9-4BB7-8711-B2C8F82D295A}|MVC5\\MVC5.csproj|solutionrelative:mvc5\\controllers\\boardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1AC0F3-C7A9-4BB7-8711-B2C8F82D295A}|MVC5\\MVC5.csproj|d:\\asp_dotnet_mvc5\\mvc5\\mvc5\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DE1AC0F3-C7A9-4BB7-8711-B2C8F82D295A}|MVC5\\MVC5.csproj|solutionrelative:mvc5\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1AC0F3-C7A9-4BB7-8711-B2C8F82D295A}|MVC5\\MVC5.csproj|D:\\ASP_DOTNET_MVC5\\MVC5\\mvc5\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE1AC0F3-C7A9-4BB7-8711-B2C8F82D295A}|MVC5\\MVC5.csproj|solutionrelative:mvc5\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1AC0F3-C7A9-4BB7-8711-B2C8F82D295A}|MVC5\\MVC5.csproj|D:\\ASP_DOTNET_MVC5\\MVC5\\mvc5\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE1AC0F3-C7A9-4BB7-8711-B2C8F82D295A}|MVC5\\MVC5.csproj|solutionrelative:mvc5\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1AC0F3-C7A9-4BB7-8711-B2C8F82D295A}|MVC5\\MVC5.csproj|D:\\ASP_DOTNET_MVC5\\MVC5\\mvc5\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DE1AC0F3-C7A9-4BB7-8711-B2C8F82D295A}|MVC5\\MVC5.csproj|solutionrelative:mvc5\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BoardController.cs",
+              "DocumentMoniker": "D:\\ASP_DOTNET_MVC5\\MVC5\\MVC5\\Controllers\\BoardController.cs",
+              "RelativeDocumentMoniker": "MVC5\\Controllers\\BoardController.cs",
+              "ToolTip": "D:\\ASP_DOTNET_MVC5\\MVC5\\MVC5\\Controllers\\BoardController.cs",
+              "RelativeToolTip": "MVC5\\Controllers\\BoardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T07:29:40.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "D:\\ASP_DOTNET_MVC5\\MVC5\\MVC5\\Global.asax.cs",
+              "RelativeDocumentMoniker": "MVC5\\Global.asax.cs",
+              "ToolTip": "D:\\ASP_DOTNET_MVC5\\MVC5\\MVC5\\Global.asax.cs",
+              "RelativeToolTip": "MVC5\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T07:00:04.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\ASP_DOTNET_MVC5\\MVC5\\MVC5\\packages.config",
+              "RelativeDocumentMoniker": "MVC5\\packages.config",
+              "ToolTip": "D:\\ASP_DOTNET_MVC5\\MVC5\\MVC5\\packages.config",
+              "RelativeToolTip": "MVC5\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-14T06:56:53.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\ASP_DOTNET_MVC5\\MVC5\\MVC5\\Web.config",
+              "RelativeDocumentMoniker": "MVC5\\Web.config",
+              "ToolTip": "D:\\ASP_DOTNET_MVC5\\MVC5\\MVC5\\Web.config",
+              "RelativeToolTip": "MVC5\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-14T06:21:05.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP_DOTNET_MVC5\\MVC5\\MVC5\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC5\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\ASP_DOTNET_MVC5\\MVC5\\MVC5\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVC5\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-14T06:14:31.924Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
